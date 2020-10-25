@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.foxdsgn.com	TRUE	/	FALSE	1999999999	__cfduid	de8d9b46caf64aaed892696a430f9a8df1602598832
+w5.foxdsgn.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
